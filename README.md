@@ -1,37 +1,25 @@
-# Intro to Algorithms and Whiteboarding
-#### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
-- [All Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
-- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
+# Algorithms & Whiteboarding
 
-## What is it?
+This repo was forked from Amelia Downs's [repo](https://github.com/adowns01/Intro-to-Whiteboarding)
 
-A weekly workshop created to help DBC alumi practice their technical interview skills. The workshops are generally strucutred as follows:
+This is now being used for [Girl Develop It San Fransico's](https://www.meetup.com/Girl-Develop-It-San-Francisco/) Algorithms & Whiteboarding classes
 
-**6:30-7:00:** Thunder talk on an algorithms topic.
+## Folder Structure
 
-**7:00-7:45:** Split up into groups of three. A new problem is displayed every 15 minutes. Each group member solves one problem while the other two group members act as interviewers.
+```
+Algorithms-Whiteboarding/
+  README.md
+  questions/
+    <question>/
+        problem.md
+        solutions/
+            <solution>
 
-**7:45-8:00:** Everyone gathers back together as a large group and discusses the questions.
-
-## Schedule
-
-Date | Topic | Alum Lead
- --- | --- | ---
-Sept 30 | HAPPY BRIRTHDAY WHITEBOARDING WEDNESDAY: Intro to Whiteboarding | Amelia
-Oct 7 | Stacks & Queues | Andrew Patterson
-Oct 14 | Recursion | Jack
-Oct 21 | Big O | - John
-Oct 28 | Linked Lists | -
-Nov 4 | Trees |-
+```
 
 
 ## Resources
 
-**Internal**
-- [All Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
-- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
-
-**External**
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Interview Cake](https://www.interviewcake.com/)
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
@@ -41,18 +29,22 @@ Nov 4 | Trees |-
 - [Andy's answer to: Why have tech interview become hard?](http://qr.ae/RoLQfu)
 
 ## How You Can Contribute
+Add your solutions by making a Pull Request
 
-- Add your solutions to the [questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
-- [Give us feedback](https://socrates.devbootcamp.com/feedback/forms)
-- [Join the G+ Community!](https://plus.google.com/u/0/communities/114320193647581293833)
+### Contribute Resources
+Branch
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+https://gist.github.com/blackfalcon/8428401
 
+Pull Request
+https://help.github.com/articles/creating-a-pull-request/
+
+Forking & Pull Request
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+https://www.codenewbie.org/blogs/how-to-make-a-pull-request
 
 ## Contact Info
 
-Amelia Downs: downs.amelia@gmail.com or [@DownsAmelia](https://twitter.com/DownsAmelia)  
-John Akers: johnakersemail@gmail.com or [@jay_akers](https://twitter.com/jay_akers)  
-
-
-[Give us feedback!](https://socrates.devbootcamp.com/feedback/forms)
-
-[Join the G+ Community!](https://plus.google.com/u/0/communities/114320193647581293833)
+Jessica Dene Earley-Cha
+jessica.dene.earley@gmail.com 
+[@chatasweetie](https://twitter.com/chatasweetie)  
