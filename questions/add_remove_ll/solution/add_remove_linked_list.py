@@ -1,4 +1,4 @@
-class Node:
+class Node(object):
     """A node that can be used for data structures"""
 
     def __init__(self, data=None, next=None):
@@ -14,7 +14,7 @@ class Node:
                                 )
 
 
-class Singly_Linked_List:
+class Singly_Linked_List(object):
     """A Linked List that only links one way, like a congo line"""
 
     def __init__(self):

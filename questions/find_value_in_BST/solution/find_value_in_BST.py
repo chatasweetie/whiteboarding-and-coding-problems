@@ -36,7 +36,6 @@ print is_value_present(my_bst, 99)
 #####################################################################
 # Don't touch the code below!
 # This allows the doctests to run
-
 if __name__ == '__main__':
     import doctest
     if doctest.testmod().failed == 0:

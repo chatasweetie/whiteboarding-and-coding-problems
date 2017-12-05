@@ -43,6 +43,8 @@ def all_values_alpha_order_v2(root, values=None):
             values.append(node.data)
             all_values_alpha_order_v2(node, values)
 
+    values.sort()
+
     return values
 
 
