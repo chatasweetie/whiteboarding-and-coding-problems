@@ -15,5 +15,7 @@ is_prime?(6) #=> false
 **Bonus:** Can you improve your algorithm by memoizing it?
 
 ###Solutions
-Add a link to your solution here :) 
-https://github.com/wardch/Algorithms/blob/master/is_prime.rb
+
+[Amelia's Solution - Ruby](https://github.com/wardch/Algorithms/blob/master/is_prime.rb)
+
+[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/is_prime/solution/is_prime.py)
