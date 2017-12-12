@@ -21,3 +21,5 @@ This problem is from Interview Cake.
 
 ###Solutions
 [Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/making-change-amelia.rb)
+
+[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/making-change/solution/making_change.py)
