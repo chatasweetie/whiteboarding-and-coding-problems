@@ -13,4 +13,4 @@ returns_total_num_of_vowels("greeneggs.txt") => {"a": #, "e": # ...}
 
 ###Solutions
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/count_vowels_in_file/solution/count_vowels_in_file.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/count_vowels_in_file/solution/count_vowels_in_file.py)

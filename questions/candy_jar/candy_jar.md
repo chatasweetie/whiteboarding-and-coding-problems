@@ -20,9 +20,9 @@ After you finish all the instructions, you need to return the average number of 
 
 ###Solutions
 
-- [Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/counting_candy_neil.rb)
+- [Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/counting_candy_neil.rb)
 - [Ruby](https://github.com/tmartyny/Intro-to-Whiteboarding-DBC/blob/master/solutions/candy_jar_martyny.rb)
-- [Python 2](solution/candy_jar.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/candy_jar/solution/candy_jar.py)
 
 
 

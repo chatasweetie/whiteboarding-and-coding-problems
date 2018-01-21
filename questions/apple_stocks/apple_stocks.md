@@ -17,6 +17,6 @@ What is the time and space complexity of your solution?
 **This problem is from [Interview Cake](https://www.interviewcake.com/)**
 
 ###Solutions
-- [Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/apple_stock_amelia.rb)
+- [Amilie's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/apple_stock_amelia.rb)
 - [Ruby, Class Solution with tests ](https://github.com/tmartyny/Intro-to-Whiteboarding-DBC/blob/master/solutions/apple_stocks_martyny.rb)
-- [Python](solution/apple_stocks.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/apple_stocks/solution/apple_stocks.py)

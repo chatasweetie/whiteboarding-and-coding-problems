@@ -13,4 +13,4 @@ Considerations: how do you account for capitalization and punctuation?
 
 [Nichole Shelton's Solution - Javascript](https://github.com/vibrantlife/Intro-to-Whiteboarding-DBC/blob/master/solutions/most_occurring_word_ns.js)
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/most_occurring_word/solution/most_occurring_word.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/most_occurring_word/solution/most_occurring_word.py)

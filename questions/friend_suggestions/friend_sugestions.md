@@ -9,4 +9,4 @@ A User class to test: [User Class and Testing Data Python 2.7](https://github.co
 
 Solution:
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/friend_suggestions/solution/friend_sugestions.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/friend_suggestions/solution/friend_sugestions.py)

@@ -36,4 +36,5 @@ has_matching_parens(str) #=> true
 
 [Hugh's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/bracket_check.rb)
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/making-change/solution/making_change.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/matching_parens.py)
+

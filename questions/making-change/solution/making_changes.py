@@ -1,6 +1,6 @@
 
 def make_change(amount, currency_values):
-    """Returns the number of possiblities of making change
+    """Returns the number of possibilities of making change
 
             >>> print make_change(4, [1, 2, 3])
             4

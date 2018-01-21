@@ -13,4 +13,4 @@ Solution: 4 * 3 * 2 * 1 = 24
 
 [Patrick's Solution - JavaScript](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/RecursionSolutions/js/factorial.js)
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/factorial/solution/factorial.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/factorial/solution/factorial.py)

@@ -14,4 +14,4 @@ Example Inputs and Outputs :
 
 ###Solutions
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/palindrome/solution/palindrome.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/palindrome/solution/palindrome.py)

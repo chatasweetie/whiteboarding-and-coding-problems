@@ -15,4 +15,5 @@ Don’t use the language's array lookup methods. Yes, you can loop over the whol
 
 ###Solutions 
 
-[Jessica's Solution - Python 2.7](https://github.com/chatasweetie/whiteboarding/tree/master/questions/pyramid_array/solution/pyramid_array.py)
+- [Jessica's Solution V1 - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/pyramid_array/solution/pyramid_array.py)
+- [Jessica's Solution V2 - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/pyramid_array/solution/pyramid_array_index.py)

@@ -10,4 +10,4 @@ Write the function *is_value_present?* that takes the root node of a ***binary s
 ###Solutions
 [Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_value_present_in_tree_amelia.rb)
 
-[Python 2.7](https://github.com/chatasweetie/Algorithms-Whiteboarding/tree/master/questions/find_value_in_BST/solution/find_value_in_BST.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/find_value_in_BST/solution/find_value_in_BST.py)
