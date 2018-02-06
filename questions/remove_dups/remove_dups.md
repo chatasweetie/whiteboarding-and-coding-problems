@@ -9,3 +9,4 @@ removeDupes("google") #=> "gole"
 - [Amelia's Solution, Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/remove_duplicates_amelia.rb)
 - [Nichole's Solution, Javascript](https://github.com/vibrantlife/Intro-to-Whiteboarding-DBC/blob/getDupes/solutions/removeDuplicates_js_ns)
 
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/merge_sort/solution/merge_sort.py)
