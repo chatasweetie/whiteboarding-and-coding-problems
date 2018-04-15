@@ -38,3 +38,5 @@ has_matching_parens(str) #=> true
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/matching_parens.py)
 
+- [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/Stacks: Balanced Brackets.java)
+

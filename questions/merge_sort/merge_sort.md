@@ -15,3 +15,5 @@ Add links to your solutions here :)
 - [Andy's Ruby Solution](https://github.com/acarl005/Recursion-Talk/blob/master/recursion%20lecture/code/merge.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/merge_sort/solution/merge_sort.py)
+
+- [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/merge_sort/solution/myMergeSort.java)
