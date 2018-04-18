@@ -19,3 +19,5 @@ is_prime?(6) #=> false
 [Amelia's Solution - Ruby](https://github.com/wardch/Algorithms/blob/master/is_prime.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_prime/solution/is_prime.py)
+
+- [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_prime/solution/Primality.java)
