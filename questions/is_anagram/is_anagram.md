@@ -13,6 +13,7 @@ are_anagrams?(“dbc”, “pizzarules”) #=> false
 **Bonus:** Can you do it without using the Ruby method #sort?
 
 ###Solutions
-[Amelia's Solution - Ruby](https://github.com/kpedersen00/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_anagram.rb)
+
+- [Amelia's Solution - Ruby](https://github.com/kpedersen00/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_anagram.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_anagram/solution/is_anagram.py)

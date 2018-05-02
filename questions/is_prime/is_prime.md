@@ -12,11 +12,10 @@ is_prime?(2) #=> true
 is_prime?(6) #=> false
 ```
 
-**Bonus:** Can you improve your algorithm by memoizing it?
 
 ###Solutions
 
-[Amelia's Solution - Ruby](https://github.com/wardch/Algorithms/blob/master/is_prime.rb)
+- [Amelia's Solution - Ruby](https://github.com/wardch/Algorithms/blob/master/is_prime.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_prime/solution/is_prime.py)
 

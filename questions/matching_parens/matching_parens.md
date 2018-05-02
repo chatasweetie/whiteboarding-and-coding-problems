@@ -28,15 +28,15 @@ has_matching_parens(str) #=> true
 
 ###Solutions
 
-[Amelia's Basic Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/matching-parens-amelia.rb)
+- [Amelia's Basic Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/matching-parens-amelia.rb)
 
-[Amelia's Bonus Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/matching-parens-bonus-amelia.rb)
+- [Amelia's Bonus Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/matching-parens-bonus-amelia.rb)
 
-[Amadou's Beautiful Ruby Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/has_matching_parens_amadou.rb)
+- [Amadou's Beautiful Ruby Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/has_matching_parens_amadou.rb)
 
-[Hugh's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/bracket_check.rb)
+- [Hugh's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/bracket_check.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/matching_parens.py)
 
-- [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/Stacks: Balanced Brackets.java)
+- [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/Stacks:%20Balanced%20Brackets.java)
 
