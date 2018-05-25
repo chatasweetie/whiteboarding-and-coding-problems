@@ -25,6 +25,7 @@ def all_values_alpha_order(root):
 
 
 all_values = all_values_alpha_order(nondirectionalgraph.graph_root_1)
+print all_values
 
 nondirectionalgraph.alpha.sort()
 

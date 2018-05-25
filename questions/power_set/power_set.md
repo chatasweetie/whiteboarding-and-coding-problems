@@ -17,4 +17,4 @@ Solution: [[], ["a"], ["b"], ["a", "b"], ["c"], ["a", "c"], ["b", "c"], ["a", "b
 
 [Anna's Solution - Ruby using iterative approach](https://github.com/shinshinwu/Intro-to-Whiteboarding-DBC/blob/master/solutions/power-set-anna.rb)
 
-[Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/power-set/solution/power_set.py)
+[Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/power_set/solution/power_set.py)
