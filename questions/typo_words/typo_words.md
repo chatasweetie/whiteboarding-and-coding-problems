@@ -13,4 +13,4 @@ is_word("cats") => ['bats', 'eats', 'Mats', 'cass', 'cate']
 
 
 ###Solutions
-- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_anagram/solution/is_anagram.py)
+- [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/typo_words/solution/typo_words.py)
