@@ -9,3 +9,5 @@ Problem from [Leetcode](www.leetcode.com)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/largest_number/solution/largest_num.py)
 
+- [Corey's Solution - C++](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/largest_number/solution/largest_num.cpp)
+
