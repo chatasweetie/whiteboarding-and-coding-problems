@@ -12,3 +12,5 @@ Origionally from: Interview Cake
 [Anna's Solution](https://github.com/shinshinwu/Intro-to-Whiteboarding-DBC/blob/master/solutions/reverse-a-string-anna.rb)
 
 - [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/reverse string/solutions/ReverseAString.java)
+
+- [Corey's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/reverse string/solutions/reverse.cpp)
