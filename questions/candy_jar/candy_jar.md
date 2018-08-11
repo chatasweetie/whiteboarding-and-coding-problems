@@ -23,6 +23,7 @@ After you finish all the instructions, you need to return the average number of 
 - [Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/counting_candy_neil.rb)
 - [Ruby](https://github.com/tmartyny/Intro-to-Whiteboarding-DBC/blob/master/solutions/candy_jar_martyny.rb)
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/candy_jar/solution/candy_jar.py)
+- [Corey's Solution - C++](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/candy_jar/solution/candy_jar.cpp)
 
 
 
