@@ -40,3 +40,4 @@ has_matching_parens(str) #=> true
 
 - [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/Stacks:%20Balanced%20Brackets.java)
 
+- [Sophia's Solution - JavaScript](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/matching_parens.js)
