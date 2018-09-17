@@ -17,3 +17,5 @@ are_anagrams?(“dbc”, “pizzarules”) #=> false
 - [Amelia's Solution - Ruby](https://github.com/kpedersen00/Intro-to-Whiteboarding-DBC/blob/master/solutions/is_anagram.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_anagram/solution/is_anagram.py)
+
+- [Sophia's Solution - JavaScript](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/is_anagram/solution/are_anagrams.js)
