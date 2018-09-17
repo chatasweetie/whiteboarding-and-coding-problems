@@ -9,8 +9,10 @@ Returns:  8
 
 
 ###Solutions
-[Neil's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/lonely_number_neil.rb)
+- [Neil's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/lonely_number_neil.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/the_lonely_number/solution/the_lonely_number.py)
 
 - [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/the_lonely_number/solution/Bit_Manipulation+The_Lonely_Integer.java)
+
+- [Sophia's Solution - JavaScript](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/the_lonely_number/solution/the_lonely_number.js)
