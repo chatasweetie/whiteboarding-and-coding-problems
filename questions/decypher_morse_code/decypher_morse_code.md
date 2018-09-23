@@ -15,6 +15,8 @@ translate_morse_code(["....", ".."]) #=> "hi"
 [Morse Code Tree in Python](solution/morsecodetree.py)
 
 ###Solutions
-[Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/morse_code_tree.rb)
+- [Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/morse_code_tree.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/decypher_morse_code/solution/decypher_morse_code.py)
+
+- [Sophia's Solution - JavaScript](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/decypher_morse_code/solution/decypher_morse_code.js)
