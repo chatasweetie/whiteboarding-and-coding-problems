@@ -2,7 +2,7 @@
 
 This repo was forked from Amelia Downs's [repo](https://github.com/adowns01/Intro-to-Whiteboarding)
 
-This is now being used for [Girl Develop It San Fransico's](https://www.meetup.com/Girl-Develop-It-San-Francisco/) Algorithms & Whiteboarding classes
+This is now being used for [Girl Develop It San Francisco's](https://www.meetup.com/Girl-Develop-It-San-Francisco/) Algorithms & Whiteboarding classes
 
 ## Folder Structure
 
