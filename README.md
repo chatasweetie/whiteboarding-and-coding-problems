@@ -33,18 +33,17 @@ Add your solutions by making a Pull Request
 
 ### Contribute Resources
 Branch
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-https://gist.github.com/blackfalcon/8428401
+  - https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+  - https://gist.github.com/blackfalcon/8428401
 
 Pull Request
-https://help.github.com/articles/creating-a-pull-request/
+  - https://help.github.com/articles/creating-a-pull-request/
 
 Forking & Pull Request
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-https://www.codenewbie.org/blogs/how-to-make-a-pull-request
+  - https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+  - https://www.codenewbie.org/blogs/how-to-make-a-pull-request
 
 ## Contact Info
 
-Jessica Dene Earley-Cha
-jessica.dene.earley@gmail.com 
+Jessica Dene Earley-Cha  
 [@chatasweetie](https://twitter.com/chatasweetie)  
