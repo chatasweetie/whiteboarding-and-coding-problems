@@ -1,4 +1,4 @@
-#Counting Candy
+# Counting Candy
 
 Filling Jars:
 You have a bunch of jars labeled 1 to N.
@@ -18,7 +18,7 @@ After you finish all the instructions, you need to return the average number of 
 
 *Example Output:* 160
 
-###Solutions
+### Solutions
 
 - [Amelia's Solution - Ruby](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/counting_candy_neil.rb)
 - [Ruby](https://github.com/tmartyny/Intro-to-Whiteboarding-DBC/blob/master/solutions/candy_jar_martyny.rb)
