@@ -17,9 +17,12 @@ Algorithms-Whiteboarding/
 
 ```
 
+Note: there are questions that are not in directory yet, feel free to modify it to match the folder structure
+
 
 ## Resources
 
+- [Daily Byte](https://thedailybyte.dev/)
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Interview Cake](https://www.interviewcake.com/)
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
@@ -32,19 +35,17 @@ Algorithms-Whiteboarding/
 Add your solutions by making a Pull Request
 
 ### Contribute Resources
-Branch
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-https://gist.github.com/blackfalcon/8428401
+- [Branch] https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-Pull Request
-https://help.github.com/articles/creating-a-pull-request/
+- [Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 
-Forking & Pull Request
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-https://www.codenewbie.org/blogs/how-to-make-a-pull-request
+- [Forking & Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
 
 ## Contact Info
 
 Jessica Dene Earley-Cha
-jessica.dene.earley@gmail.com 
-[@chatasweetie](https://twitter.com/chatasweetie)  
+
+[website](https://www.jessicadeneearley-cha.com/)
+
+[twitter](https://twitter.com/chatasweetie)
