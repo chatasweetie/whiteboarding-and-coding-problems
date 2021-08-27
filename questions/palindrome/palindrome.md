@@ -17,3 +17,5 @@ Example Inputs and Outputs :
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/palindrome/solution/palindrome.py)
 
 - [Tatiana's Solution - Java 8](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/palindrome/solution/PalindromeTester.java)
+
+- [Christopher's Solution - JavaScript](https://github.com/ChrisBrownie55/whiteboarding-and-coding-problems/blob/patch-2/questions/palindrome/solution/palindrome.js)
