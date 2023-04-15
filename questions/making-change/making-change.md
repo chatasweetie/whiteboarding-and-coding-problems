@@ -23,3 +23,5 @@ This problem is from Interview Cake.
 [Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/making-change-amelia.rb)
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/making-change/solution/making_changes.py )
+
+- [Corey's Solution - C++](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/making-change/solution/make_change.cpp )

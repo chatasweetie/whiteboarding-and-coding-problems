@@ -2,7 +2,7 @@
 
 This repo was forked from Amelia Downs's [repo](https://github.com/adowns01/Intro-to-Whiteboarding)
 
-This is now being used for [Girl Develop It San Fransico's](https://www.meetup.com/Girl-Develop-It-San-Francisco/) Algorithms & Whiteboarding classes
+This is now being used for [Girl Develop It San Francisco's](https://www.meetup.com/Girl-Develop-It-San-Francisco/) Algorithms & Whiteboarding classes
 
 ## Folder Structure
 
@@ -17,9 +17,12 @@ Algorithms-Whiteboarding/
 
 ```
 
+Note: there are questions that are not in directory yet, feel free to modify it to match the folder structure
+
 
 ## Resources
 
+- [Daily Byte](https://thedailybyte.dev/)
 - [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Interview Cake](https://www.interviewcake.com/)
 - [Project Euler - questions that need efficient algorithms](https://projecteuler.net/about)
@@ -43,7 +46,11 @@ Forking & Pull Request
   - https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
   - https://www.codenewbie.org/blogs/how-to-make-a-pull-request
 
+
 ## Contact Info
 
-Jessica Dene Earley-Cha  
-[@chatasweetie](https://twitter.com/chatasweetie)  
+Jessica Dene Earley-Cha
+
+[website](https://www.jessicadeneearley-cha.com/)
+
+[twitter](https://twitter.com/chatasweetie)

@@ -15,3 +15,4 @@ valid_parentheses?( ‘({foo)}’ )                            # => f
 Add links to your solutions here :)
 - [Andy's Recursive Ruby Solution](https://github.com/acarl005/Recursion-Talk/blob/master/recursion%20lecture/code/paren.rb)
 
+- [Sophia's Recursive JavaScript Solution](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/matching_parens/solution/recursive_valid_parens.js)
