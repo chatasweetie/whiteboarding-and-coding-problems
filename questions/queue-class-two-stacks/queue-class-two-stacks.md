@@ -1,6 +1,5 @@
-#Create Queue with Two Stacks
-
-**THIS IS A VERY COMMON INTERVIEW QUESTION**
+Create Queue with Two Stacks
+=============================
 
 Implement a Queue class using two stacks. You may assume you have a stack class with the four methods listed below.
 
@@ -19,7 +18,8 @@ Implement a Queue class using two stacks. You may assume you have a stack class 
 - push(item) #add
 - is_empty?
 
-###Solutions
+### Solutions
 - [Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-amelia.rb)  
 - [Patrick's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-patrick.js)
 - [Hugh's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/stacks_as_queue.rb)
+- [Jessica's Python Solution]()
