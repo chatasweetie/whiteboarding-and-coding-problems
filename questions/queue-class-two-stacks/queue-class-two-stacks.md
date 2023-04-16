@@ -22,4 +22,4 @@ Implement a Queue class using two stacks. You may assume you have a stack class 
 - [Amelia's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-amelia.rb)  
 - [Patrick's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/queue-two-stacks-patrick.js)
 - [Hugh's Solution](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/solutions/stacks_as_queue.rb)
-- [Jessica's Python Solution]()
+- [Jessica's Python Solution](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/main/questions/queue-class-two-stacks/solutions/queue-class-two-stacks.py)
