@@ -18,3 +18,4 @@ unique_char("banana") => "b"
 
 ###Solutions
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/unique_char_no_additional_ds/solution/unique_char_no_additional_ds.py)
+- [Arcy's Solution - Python3](./solution/unique_char_arcy.py)
