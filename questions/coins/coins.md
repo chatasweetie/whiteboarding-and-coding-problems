@@ -28,3 +28,4 @@ For example:
 ###Solutions
 
 - [Jessica's Solution - Python2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/coins/solution/coins.py)
+- [Arcy's Solution - Python 3.12](./solution/coins_arcy.py)
