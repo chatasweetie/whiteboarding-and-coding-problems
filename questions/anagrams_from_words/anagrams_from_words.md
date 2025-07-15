@@ -14,3 +14,4 @@ anagrams_of('yoabrked') => ['keyboard']
 
 ###Solutions
 [Jessica's Solution - Python 2.7](https://github.com/chatasweetie/whiteboarding-and-coding-problems/blob/master/questions/anagrams_from_words/solution/anagrams_from_words.py)
+[Arcy's Solution - Python 3.12](./solution/all_anagrams_arcy.py)
